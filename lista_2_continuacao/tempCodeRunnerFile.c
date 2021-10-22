@@ -1,0 +1,2 @@
+
+            printf("-----index par %d
